@@ -1,2 +1,2 @@
-# kycreations-theme
+# kycreations
 My portfolio website
